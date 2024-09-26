@@ -1,0 +1,22 @@
+.cart-widget {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .cart-widget i {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .cart-widget .badge {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 0.8rem;
+    position: absolute;
+    top: -5px;
+    right: -10px;
+  }
+  
