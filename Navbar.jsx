@@ -3,7 +3,7 @@ import CartWidget from './CartWidget';
 import './Navbar.css';
 
 const Navbar = () => {
-  return (
+  return  (
     <nav className="navbar">
       <h1 className="navbar-title">Mi Tienda</h1>
       <ul className="nav-links">

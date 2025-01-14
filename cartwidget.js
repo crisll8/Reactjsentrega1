@@ -3,7 +3,7 @@ import './cartwidget.css';
 import { FaShoppingCart } from 'react-icons/fa';
 
 const CartWidget = () => {
-    const itemCount = 3; // Número hardcodeado
+    const itemCount = 3; //  Número hardcodeado
 
     return (
         <div className="cart-widget">
